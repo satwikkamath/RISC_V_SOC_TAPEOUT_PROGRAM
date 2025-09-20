@@ -22,7 +22,7 @@ This repository is organized week-wise. Each week folder contains a detailed REA
 
 | Week | Description | Link |
 |------|-------------|------|
-| Week 0 | Installation & Setup | [Week 0 README](./Week 0/README.md) |
+| Week 0 | Installation & Setup | [Week 0 README](Week_0/README.md) |
 
 > More weekly updates will be added as the program progresses.
 
